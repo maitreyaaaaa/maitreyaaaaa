@@ -1,11 +1,15 @@
-# Hey, I’m Webster 👋
+<p align="center">
+  <img src="assets/maitreya-profile.gif" alt="Maitreya, AI product builder, with a softly orbiting signal animation." width="100%" />
+</p>
 
-I build practical AI products—from real-time voice tools to software that helps teams work with better context.
+<p align="center"><strong>Turning big ideas into useful AI.</strong></p>
+
+Hey, I’m **Maitreya**. I build AI products that help people practice, organize ideas, and make better decisions.
 
 ## What I’m building
 
-- [official](https://github.com/maitreyaaaaa/official) — Evidence-backed launch reviews and connected company records.
-- [Miles](https://github.com/maitreyaaaaa/Miles) — A voice sparring partner for practicing difficult conversations.
-- [Ice Scraper](https://github.com/maitreyaaaaa/IScraper-workflow) — Turns saved references into searchable campaign context and reviewed workflows.
+- [🎙️ Miles](https://miles-one-nu.vercel.app) — Practice difficult conversations with a real-time voice sparring partner.
+- [🧭 IScraper](https://iscraper.vercel.app) — Turn saved references into searchable campaign memory and useful workflows.
+- [✨ official](https://official-sand.vercel.app) — Review launch claims with evidence and connected company context.
 
-I’m interested in the path from a promising idea to a useful product. Explore the projects above to see what I’m working on.
+I like ambitious ideas, quick experiments, and making the useful version real.
