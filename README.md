@@ -9,7 +9,7 @@ Hey, I’m **Maitreya**. I build AI products that help people practice, organize
 ## What I’m building
 
 - [🎙️ Miles](https://miles-one-nu.vercel.app) — Practice difficult conversations with a real-time voice sparring partner.
-- [🧭 IScraper](https://iscraper.vercel.app) — Turn saved references into searchable campaign memory and useful workflows.
+- [🧭 IScraper](https://www.iscraper.in) — Turn saved references into searchable campaign memory and useful workflows.
 - [✨ official](https://official-sand.vercel.app) — Review launch claims with evidence and connected company context.
 
 I like ambitious ideas, quick experiments, and making the useful version real.
